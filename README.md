@@ -1,7 +1,7 @@
-![Uziel Linares Antonio - Frontend Developer y Backend] 
+![Uziel Linares Antonio - Frontend Developer and Backend] 
 # Hola, soy uziel
 
-###    Frontend Developer y  Backend•  Puebla, MX 
+###    Frontend Developer and  Backend•  Puebla, MX 
 
 Construyo sistemas - multi-tenant  , automatizacionees.
 
