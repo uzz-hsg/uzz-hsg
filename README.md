@@ -1,16 +1,16 @@
-## Hi there 👋
+![Uziel Linares Antonio - Frontend Developer y Backend] 
+# Hola, soy uziel
 
-<!--
-**uzz-hsg/uzz-hsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###    Frontend Developer y  Backend•  Puebla, MX 
 
-Here are some ideas to get you started:
+Construyo sistemas - multi-tenant  , automatizacionees.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+
+![Stack](https://skillicons.dev/icons?i=java,go,docker,linux,py,html,css,js,firebase,arch,flutter,obsidian,tailwind,react&theme=dark)
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=uzz-hsg&theme=sakura&border_radius=0)
+
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=uzz-hsg&theme=sakura&metric=hours)
